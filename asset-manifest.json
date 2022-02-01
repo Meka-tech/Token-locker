@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Token-locker/static/css/main.5171b591.css",
-    "main.js": "/Token-locker/static/js/main.bc28d857.js",
+    "main.js": "/Token-locker/static/js/main.557a9378.js",
     "static/media/Transparent.jpg": "/Token-locker/static/media/Transparent.b81aeebe5745c7e2a3de.jpg",
-    "static/media/Easy to Use.jpg": "/Token-locker/static/media/Easy to Use.05fad165520c539d9a4c.jpg",
+    "static/media/Easy to Use.jpg": "/Token-locker/static/media/Easy to Use.e9da67132766602ddcf5.jpg",
     "static/media/TokenLocker.png": "/Token-locker/static/media/TokenLocker.6c2ab195f35d891e0c6e.png",
-    "static/media/Gains.jpg": "/Token-locker/static/media/Gains.42912e5a5f01312fe43c.jpg",
+    "static/media/Gains.jpg": "/Token-locker/static/media/Gains.561f94fb0bde99089f02.jpg",
     "index.html": "/Token-locker/index.html",
     "main.5171b591.css.map": "/Token-locker/static/css/main.5171b591.css.map",
-    "main.bc28d857.js.map": "/Token-locker/static/js/main.bc28d857.js.map"
+    "main.557a9378.js.map": "/Token-locker/static/js/main.557a9378.js.map"
   },
   "entrypoints": [
     "static/css/main.5171b591.css",
-    "static/js/main.bc28d857.js"
+    "static/js/main.557a9378.js"
   ]
 }
