@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 
 function Footer() {
   useEffect(() => {
-    Aos.init({ duration: 2500 });
+    Aos.init({ duration: 2000 });
   }, []);
   return (
     <footer data-aos="fade-up" className="footer">

@@ -1,7 +1,7 @@
 {
   "name": "token-locker",
   "version": "0.1.0",
-  "homepage": "https://Meka-tech.github.io/Token-locker",
+  "homepage": "http://Meka-tech.github.io/Token-locker",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",

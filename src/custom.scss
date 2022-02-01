@@ -22,8 +22,8 @@ $offcanvas-horizontal-width: 30%;
   padding: auto;
 }
 .navlink {
-  font-size: 1.5vw;
-  padding-left: 10%;
+  font-size: 16px;
+  padding-right: 5%;
   color: white;
   font-weight: 800;
 }
@@ -34,14 +34,14 @@ h1 {
 }
 .title {
   position: relative;
-  font-size: 5vw;
+  font-size: 32px;
   color: rgb(20, 89, 161);
   font-weight: 1000;
   text-align: center;
 }
 .titleRM {
   position: relative;
-  font-size: 3vw;
+  font-size: 25px;
   color: rgb(255, 255, 255);
   font-weight: 1000;
   text-align: center;
@@ -51,7 +51,7 @@ h1 {
 }
 
 p {
-  font-size: 1.5vw;
+  font-size: 16px;
   color: rgb(199, 199, 199);
   padding-top: 1, 5%;
   padding-bottom: 1.5%;
@@ -62,12 +62,12 @@ section {
   outline: lemonchiffon;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   align-items: center;
-  margin: auto;
-  width: fit-content;
-  height: 50%;
 
-  padding-bottom: 10%;
-  padding-top: 10%;
+  width: fit-content;
+  height: auto;
+
+  padding-bottom: 5%;
+  padding-top: 5%;
   padding-left: 5%;
   padding-right: 5%;
   justify-content: center;
@@ -81,11 +81,11 @@ section {
 .section1RM {
   margin-left: 10%;
   margin-right: 10%;
-  max-height: fit-content;
+
   padding: 0%;
   padding-top: 5%;
   color: rgb(199, 199, 199);
-  font-size: 2vw;
+  font-size: 16px;
 }
 .sectionC {
   margin-left: 10%;
@@ -98,21 +98,21 @@ section {
 }
 .details {
   text-align: left;
-  font-size: 1.5vw;
+  font-size: 16px;
   width: fit-content;
 }
 
 .sectionHeader {
-  padding: 10%;
+  padding: 2%;
   text-align: left;
-  font-size: 1.3vw;
+  font-size: 12px;
   color: rgb(20, 89, 161);
   font-weight: 900;
   padding-top: 3%;
   align-self: left;
 }
 .sectionHeaderC {
-  font-size: 1vw;
+  font-size: 12px;
   color: rgb(20, 89, 161);
   font-weight: 900;
   padding-top: 3%;
@@ -120,13 +120,13 @@ section {
 }
 .sectionUse {
   text-align: left;
-  font-size: 3vw;
+  font-size: 16px;
   color: white;
   font-weight: 900;
   padding-bottom: 3%;
 }
 .sectionUseRM {
-  font-size: 2vw;
+  font-size: 16px;
   color: white;
   font-weight: 500;
 }
@@ -150,7 +150,7 @@ section {
 
 .images {
   width: 100%;
-  height: fit-content;
+  height: auto;
 
   border-radius: 30px;
 }
@@ -165,20 +165,21 @@ section {
   font-weight: 1000;
   color: white;
   padding: 1%;
-  font-size: 1.6vw;
+  font-size: 16px;
   text-align: center;
 }
 .cardcontent {
   text-align: center;
-  font-size: 1.2vw;
+  font-size: 12px;
   padding: 1%;
   padding-bottom: 10%;
 }
 ///////////////////////////////
 .footer {
-  font-size: 0.5vw;
+  font-size: 16px;
   padding: 10%;
   color: rgb(199, 199, 199);
+  height: auto;
 
   background-color: rgb(28, 28, 31);
   align-content: center;
@@ -189,7 +190,7 @@ section {
 }
 
 .link {
-  font-size: 2vw;
+  font-size: 16px;
   padding-left: 5%;
   padding-right: 5%;
   color: rgb(209, 209, 209);
