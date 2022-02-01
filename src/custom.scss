@@ -1,0 +1,205 @@
+// Override default variables before the import
+$body-bg: rgb(24, 24, 26);
+$body-color: rgb(245, 245, 245);
+
+$theme-colors: (
+  "bg": rgb(25, 25, 28),
+  "button": rgb(3, 110, 225),
+);
+//NavBar
+
+$offcanvas-bg-color: rgb(38, 38, 43);
+$offcanvas-horizontal-width: 30%;
+
+// Import Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap.scss";
+
+.logo {
+  max-width: 50%;
+  background-color: white;
+
+  position: relative;
+  padding: auto;
+}
+.navlink {
+  font-size: 1.5vw;
+  padding-left: 10%;
+  color: white;
+  font-weight: 800;
+}
+h1 {
+  position: relative;
+  font-size: 5vw;
+  padding-top: 2%;
+}
+.title {
+  position: relative;
+  font-size: 5vw;
+  color: rgb(20, 89, 161);
+  font-weight: 1000;
+  text-align: center;
+}
+.titleRM {
+  position: relative;
+  font-size: 3vw;
+  color: rgb(255, 255, 255);
+  font-weight: 1000;
+  text-align: center;
+}
+.title:hover {
+  color: rgb(11, 103, 202);
+}
+
+p {
+  font-size: 1.5vw;
+  color: rgb(199, 199, 199);
+  padding-top: 1, 5%;
+  padding-bottom: 1.5%;
+}
+section {
+  position: relative;
+
+  outline: lemonchiffon;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: center;
+  margin: auto;
+  width: fit-content;
+  height: 50%;
+
+  padding-bottom: 10%;
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
+  justify-content: center;
+  display: inline-block;
+}
+.section1 {
+  margin-left: 10%;
+  margin-right: 10%;
+  border-bottom: solid rgb(41, 41, 48);
+}
+.section1RM {
+  margin-left: 10%;
+  margin-right: 10%;
+  max-height: fit-content;
+  padding: 0%;
+  padding-top: 5%;
+  color: rgb(199, 199, 199);
+  font-size: 2vw;
+}
+.sectionC {
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  height: max-content;
+  align-content: center;
+  justify-content: center;
+}
+.details {
+  text-align: left;
+  font-size: 1.5vw;
+  width: fit-content;
+}
+
+.sectionHeader {
+  padding: 10%;
+  text-align: left;
+  font-size: 1.3vw;
+  color: rgb(20, 89, 161);
+  font-weight: 900;
+  padding-top: 3%;
+  align-self: left;
+}
+.sectionHeaderC {
+  font-size: 1vw;
+  color: rgb(20, 89, 161);
+  font-weight: 900;
+  padding-top: 3%;
+  align-self: center;
+}
+.sectionUse {
+  text-align: left;
+  font-size: 3vw;
+  color: white;
+  font-weight: 900;
+  padding-bottom: 3%;
+}
+.sectionUseRM {
+  font-size: 2vw;
+  color: white;
+  font-weight: 500;
+}
+.btn {
+  border-radius: 30px;
+  font-size: 1vw;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  width: fit-content;
+  height: fit-content;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  transition: ease-in 100ms;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.images {
+  width: 100%;
+  height: fit-content;
+
+  border-radius: 30px;
+}
+.images:hover {
+  transform: scale(1.05);
+  transition: ease-in-out 100ms;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/////////////////////////////////
+
+.cardheader {
+  font-weight: 1000;
+  color: white;
+  padding: 1%;
+  font-size: 1.6vw;
+  text-align: center;
+}
+.cardcontent {
+  text-align: center;
+  font-size: 1.2vw;
+  padding: 1%;
+  padding-bottom: 10%;
+}
+///////////////////////////////
+.footer {
+  font-size: 0.5vw;
+  padding: 10%;
+  color: rgb(199, 199, 199);
+
+  background-color: rgb(28, 28, 31);
+  align-content: center;
+}
+.logoFooter {
+  max-width: 20%;
+  align-self: center;
+}
+
+.link {
+  font-size: 2vw;
+  padding-left: 5%;
+  padding-right: 5%;
+  color: rgb(209, 209, 209);
+  font-weight: 500;
+}
+
+////////////////////////
+.icon {
+  background-color: rgb(45, 127, 248);
+  align-self: center;
+  border-radius: 5px;
+  size: 50px;
+}
