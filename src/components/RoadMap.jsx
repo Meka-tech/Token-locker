@@ -35,9 +35,9 @@ const RoadMap = () => {
             <div className="col-sm">
               <DiCode className="icon" size={30} />
 
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique. Integer
                 elementum porttitor tortor ut elementum. Donec mollis commodo
@@ -47,9 +47,9 @@ const RoadMap = () => {
             <div className="col-sm">
               <DiGoogleAnalytics className="icon" size={30} />
 
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique. Integer
                 elementum porttitor tortor ut elementum. Donec mollis commodo
@@ -62,9 +62,9 @@ const RoadMap = () => {
             <div className="col-sm">
               <DiAtom className="icon" size={30} />
 
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique..
               </p>
@@ -74,9 +74,9 @@ const RoadMap = () => {
             <div className="col-sm">
               <DiFirebase className="icon" size={25} />
 
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique. Integer
                 elementum porttitor tortor ut elementum. Donec mollis commodo
@@ -87,9 +87,9 @@ const RoadMap = () => {
             <div className="col-sm">
               <AiFillApi className="icon" size={25} />
 
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique. Integer
                 elementum porttitor tortor ut elementum. Donec mollis commodo
@@ -99,9 +99,9 @@ const RoadMap = () => {
             <div className="col-sm">
               <AiFillCloud className="icon" size={25} />
 
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique. Integer
                 elementum porttitor tortor ut elementum. Donec mollis commodo
@@ -114,9 +114,9 @@ const RoadMap = () => {
             <div className="col-sm">
               <AiFillGold className="icon" size={25} />
 
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique. Integer
                 elementum porttitor tortor ut elementum. Donec mollis commodo
@@ -125,9 +125,9 @@ const RoadMap = () => {
             </div>
             <div className="col-sm">
               <AiFillLock className="icon" size={25} />
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique.
               </p>
@@ -135,9 +135,9 @@ const RoadMap = () => {
             <div className="col-sm">
               <AiFillRocket className="icon" size={25} />
 
-              <p className="cardheader">
+              <h2 className="cardheader">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-              </p>
+              </h2>
               <p className="cardcontent">
                 Curabitur consectetur euismod dui et tristique. Integer
                 elementum porttitor tortor ut elementum. Donec mollis commodo
