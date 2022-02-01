@@ -23,7 +23,7 @@ $offcanvas-horizontal-width: 30%;
 }
 .navlink {
   font-size: 16px;
-  padding-right: 5%;
+  padding-right: 20%;
   color: white;
   font-weight: 800;
 }
@@ -53,8 +53,8 @@ h1 {
 p {
   font-size: 16px;
   color: rgb(199, 199, 199);
-  padding-top: 1, 5%;
-  padding-bottom: 1.5%;
+  padding-top: 1.5%;
+  padding-bottom: 5%;
 }
 section {
   position: relative;
@@ -66,7 +66,7 @@ section {
   width: fit-content;
   height: auto;
 
-  padding-bottom: 5%;
+  padding-bottom: 15%;
   padding-top: 5%;
   padding-left: 5%;
   padding-right: 5%;
@@ -132,17 +132,19 @@ section {
 }
 .btn {
   border-radius: 30px;
-  font-size: 1vw;
-  padding-left: 5%;
-  padding-right: 5%;
+  size: 30px;
+  font-size: 16px;
+  padding-left: 10%;
+  padding-right: 10%;
   padding-top: 1%;
   padding-bottom: 1%;
-  width: fit-content;
-  height: fit-content;
+  transform: scale(1.5);
+  // width: fit-content;
+  // height: fit-content;
 }
 
 .btn:hover {
-  transform: scale(1.1);
+  transform: scale(1.6);
   transition: ease-in 100ms;
   background-color: rgb(255, 255, 255);
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -164,14 +166,14 @@ section {
 .cardheader {
   font-weight: 1000;
   color: white;
-  padding: 1%;
+  padding-top: 1%;
   font-size: 16px;
   text-align: center;
 }
 .cardcontent {
   text-align: center;
   font-size: 12px;
-  padding: 1%;
+
   padding-bottom: 10%;
 }
 ///////////////////////////////

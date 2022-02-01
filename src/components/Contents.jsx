@@ -9,7 +9,7 @@ import { useEffect } from "react";
 
 const Contents = () => {
   useEffect(() => {
-    Aos.init({ duration: 2000 });
+    Aos.init({ duration: 1000 });
   }, []);
   return (
     <div>
@@ -30,12 +30,12 @@ const Contents = () => {
           There is a penalty fee that you pick on deposit to protect yourself
           from trying to withdraw before the unlock date.
         </p>
-        <Button className="btn">Launch app</Button>
+        <Button className="btn ">Launch app</Button>
       </section>
       <section>
         <div className="container">
           <div className="row">
-            <p>
+            <p data-aos="fade-down">
               Have you ever seen a token you once owned jump 10x after a year
               since you sold it and regretted it?
             </p>

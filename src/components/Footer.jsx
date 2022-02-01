@@ -7,10 +7,10 @@ import { Link } from "react-router-dom";
 
 function Footer() {
   useEffect(() => {
-    Aos.init({ duration: 2000 });
+    Aos.init({ duration: 1000 });
   }, []);
   return (
-    <footer data-aos="fade-up" className="footer">
+    <footer data-aos="fade-left" className="footer">
       <img className="logoFooter" src={require("../Images/TokenLocker.png")} />
       <div className="container">
         <div className="row">

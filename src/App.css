@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background-color: rgb(38, 38, 43);
+  overflow-x: hidden;
 }
 
 /* .App-header {
