@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Token-locker/static/css/main.8c04bed7.css",
+    "main.js": "/Token-locker/static/js/main.abe75ee0.js",
+    "static/media/Transparent.jpg": "/Token-locker/static/media/Transparent.b81aeebe5745c7e2a3de.jpg",
+    "static/media/Easy to Use.jpg": "/Token-locker/static/media/Easy to Use.05fad165520c539d9a4c.jpg",
+    "static/media/TokenLocker.png": "/Token-locker/static/media/TokenLocker.6c2ab195f35d891e0c6e.png",
+    "static/media/Gains.jpg": "/Token-locker/static/media/Gains.8def3901dc09e36f4579.jpg",
+    "index.html": "/Token-locker/index.html",
+    "main.8c04bed7.css.map": "/Token-locker/static/css/main.8c04bed7.css.map",
+    "main.abe75ee0.js.map": "/Token-locker/static/js/main.abe75ee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c04bed7.css",
+    "static/js/main.abe75ee0.js"
+  ]
+}
